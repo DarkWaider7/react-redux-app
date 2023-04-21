@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# React Redux App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
-
-In the project directory, you can run:
+this application has the ability to replenish, add money to the account, as well as the ability to add and remove users
 
 ### `npm start`
 
